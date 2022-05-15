@@ -1,6 +1,0 @@
-代数 filter=lfs diff=lfs merge=lfs -text
-几何 filter=lfs diff=lfs merge=lfs -text
-分析 filter=lfs diff=lfs merge=lfs -text
-数值和优化 filter=lfs diff=lfs merge=lfs -text
-概率统计 filter=lfs diff=lfs merge=lfs -text
-组合学 filter=lfs diff=lfs merge=lfs -text
